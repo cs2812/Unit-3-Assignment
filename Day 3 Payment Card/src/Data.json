@@ -1,0 +1,29 @@
+[
+    {   "id":1,
+        "date":"28/10/2022",
+        "logo":"https://upload.wikimedia.org/wikipedia/commons/d/de/Amazon_icon.png",
+        "heading":"Amazon Gift",
+        "subheading":"Pay",
+        "devices":"Desktop - Mobile",
+        "backgroundColor":"#ffa500"
+    },
+    {   
+        "id":2,
+        "date":"28/10/2022",
+        "logo":"https://upload.wikimedia.org/wikipedia/commons/d/de/Amazon_icon.png",
+        "heading":"Amazon Gift",
+        "subheading":"Pay",
+        "devices":"Desktop - Mobile",
+        "backgroundColor":"#ffa500"
+    },
+    {
+        "id":3,
+        "date":"28/10/2022",
+        "logo":"http://simpleicon.com/wp-content/uploads/apple.png",
+        "heading":"Apple Gift",
+        "subheading":"Payment",
+        "devices":"MacOS - Mobile",
+        "backgroundColor":"#cecece"
+    }
+
+]

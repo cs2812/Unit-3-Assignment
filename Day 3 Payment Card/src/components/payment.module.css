@@ -1,0 +1,39 @@
+
+.container{
+    /* border: solid; */
+  margin-left: 25%;
+
+    width: 50%;
+    height: 420px;
+    padding: 10px 40px;
+    box-sizing: border-box;
+
+    
+}
+.d1{
+    display: flex;
+    /* border: solid; */
+    height: 20%;
+    justify-content: space-between;
+}
+.d2{
+    /* border: solid; */
+    width: 19%;
+    padding: 8px 10px;
+    box-sizing: border-box;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+}
+.d3{
+    /* border: solid; */
+    width: 50%;
+    font-size: 21px;
+}
+.d4{
+    display: flex;
+    /* border: solid; */
+    height: 13%;
+    justify-content: space-between;
+
+}
