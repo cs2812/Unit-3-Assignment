@@ -1,0 +1,30 @@
+.maindiv{
+    border: solid;
+    width: 30%;
+    margin-left: 30%;
+}
+.list{
+    display: flex;
+    margin-left: 23%;
+    margin-top: 10px;
+    border: solid;
+    font-size: 24px;
+    width: 53%;
+    justify-content: space-between;
+    padding:10px;
+}
+.inputdiv{
+    display: flex;
+    margin-left: 20%;
+}
+.input{
+    width: 70%;
+    height: 35px;
+    font-size: large;
+}
+.Addbtn{
+    height: 40px;   
+}
+.funbtn{
+    height: 40px;
+}
