@@ -1,0 +1,164 @@
+[
+    {
+      "id":1,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg",
+      "name": "Chaitanya Parathas",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "1",
+      "deliveryTimings": "31",
+      "costfortwo": "100",
+      "offers": ["20% off", "Use TRYNEW"]
+    },
+    {
+        "id":2,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant2.jpeg",
+        "name": "MH 12 Pav Bhaji",
+        "category": [
+          "North India",
+          "Punjabi",
+          "Chinese",
+          "Thalis Combo",
+          "Beverages"
+        ],
+        "rating": "2",
+        "deliveryTimings": "35",
+        "costfortwo": "200",
+        "offers": ["20% off", "Use TRYNEW"]
+      },
+      {
+        "id":3,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant3.jpeg",
+        "name": "Lunch Box",
+        "category": [
+          "North India",
+          "Punjabi",
+          "Chinese",
+          "Thalis Combo",
+          "Beverages"
+        ],
+        "rating": "3",
+        "deliveryTimings": "33",
+        "costfortwo": "300",
+        "offers": ["20% off", "Use TRYNEW"]
+      },
+      {
+        "id":4,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant4.jpeg",
+        "name": "The Hungry Hippe",
+        "category": [
+          "North India",
+          "Punjabi",
+          "Chinese",
+          "Thalis Combo",
+          "Beverages"
+        ],
+        "rating": "4",
+        "deliveryTimings": "30",
+        "costfortwo": "400",
+        "offers": ["20% off", "Use TRYNEW"]
+      },
+      {
+        "id":5,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant5.jpeg",
+        "name": "Ovenstory Pizzas",
+        "category": [
+          "North India",
+          "Punjabi",
+          "Chinese",
+          "Thalis Combo",
+          "Beverages"
+        ],
+        "rating": "3",
+        "deliveryTimings": "37",
+        "costfortwo": "500",
+        "offers": ["20% off", "Use TRYNEW"]
+      },
+      {
+        "id":6,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant6.jpeg",
+        "name": "Starbucks Coffee",
+        "category": [
+          "North India",
+          "Punjabi",
+          "Chinese",
+          "Thalis Combo",
+          "Beverages"
+        ],
+        "rating": "4",
+        "deliveryTimings": "21",
+        "costfortwo": "450",
+        "offers": ["20% off", "Use TRYNEW"]
+      },
+      {
+        "id":7,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant7.jpeg",
+        "name": "MH 12 Pav Bhaji 2",
+        "category": [
+          "North India",
+          "Punjabi",
+          "Chinese",
+          "Thalis Combo",
+          "Beverages"
+        ],
+        "rating": "5",
+        "deliveryTimings": "19",
+        "costfortwo": "300",
+        "offers": ["20% off", "Use TRYNEW"]
+      },
+      {
+        "id":8,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant8.jpeg",
+        "name": "Chatka Matka",
+        "category": [
+          "North India",
+          "Punjabi",
+          "Chinese",
+          "Thalis Combo",
+          "Beverages"
+        ],
+        "rating": "4",
+        "deliveryTimings": "20",
+        "costfortwo": "200",
+        "offers": ["20% off", "Use TRYNEW"]
+      },
+      {
+        "id":9,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant9.jpeg",
+        "name": "Dana Pani",
+        "category": [
+          "North India",
+          "Punjabi",
+          "Chinese",
+          "Thalis Combo",
+          "Beverages"
+        ],
+        "rating": "3",
+        "deliveryTimings": "17",
+        "costfortwo": "350",
+        "offers": ["20% off", "Use TRYNEW"]
+      },
+      {
+        "id":10,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant10.jpeg",
+        "name": "Sharma ji Dhabha",
+        "category": [
+          "North India",
+          "Punjabi",
+          "Chinese",
+          "Thalis Combo",
+          "Beverages"
+        ],
+        "rating": "4",
+        "deliveryTimings": "15",
+        "costfortwo": "250",
+        "offers": ["20% off", "Use TRYNEW"]
+      }
+  ]
+
+
