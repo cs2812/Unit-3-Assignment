@@ -4,7 +4,7 @@ import Stopwatch from './components/Stopwatch';
 
 
 function App() {
-  const start=0;
+  const start=20;
 
   const end=10;
 

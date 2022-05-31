@@ -1,0 +1,29 @@
+.details{
+    
+    /* border: solid; */
+    padding: 0px 30px;
+}
+.form{
+    border: solid;
+    width: 20%;
+    padding: 10px;
+    text-align: center;
+    line-height: 40px;
+}
+th{
+    padding: 10px;
+    /* box-sizing: border-box; */
+    /* border: solid; */
+}
+td{
+    padding: 10px 3px ;
+    text-align: center;
+
+}
+ th, td {
+    border: 1px solid rgb(135, 44, 44);
+ }
+ img{
+     width: 45px;
+     height: 60px;
+ }

@@ -114,15 +114,10 @@ let deleteItem=(id)=>{
      page>1?(setPage(page-1))
      :alert("This is First page")}
      }>Previous Page</button>        
-
  <button
  className={styles.funbtn} onClick={()=>setPage(page+1)}
  >Next Page</button>
-   
  </div>
-        
-  
   )
 }
-
 export default Todo
