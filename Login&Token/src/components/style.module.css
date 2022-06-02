@@ -1,0 +1,26 @@
+.navbar{
+    display: flex;
+    border: solid;
+    justify-content: space-between;
+    padding: 10px 60px;
+    background-color: rgb(231, 243, 197);
+    box-sizing: border-box;
+}
+.status{
+    font-size: 30px;
+    /* border: solid; */
+    box-sizing: border-box;
+    padding: 10px 20px;
+    background-color: rgb(235, 225, 225);
+    color: rgb(233, 160, 66);
+
+
+}
+.login{
+    padding: 20px 60px;
+    font-size: 30px;
+    margin-top: 50px;
+    background-color: cadetblue;
+    color: aliceblue;
+    box-sizing: border-box;
+}
