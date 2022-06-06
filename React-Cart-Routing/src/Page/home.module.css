@@ -1,0 +1,54 @@
+
+.img1{
+    border: solid rebeccapurple;
+    align-items: center;
+    margin-top: 10px;
+
+}
+.img1>img{
+    width: 100%;
+}
+.men{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    /* border: solid; */
+    
+}
+.men>img{
+    width: 100%;
+}
+.men>img:hover{
+    transform: scale(1.1)
+}
+h3{
+    padding-left: 45%;
+    font-size: 30px;
+    /* border: solid; */
+}
+.login{
+    margin-left: 30%;
+    line-height: 30px;
+    border: solid;
+    width: 40%;
+    text-align: center;
+    height: 200px;
+}
+.footer{
+    display:flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    background-color: rgb(131, 249, 249);
+    color:rgb(49, 46, 46)
+    
+}
+.logos{
+    padding-top: 5%;
+    display:flex;
+    gap:20px;
+    font-size: x-large;
+}
+.fakepr{
+    padding-top: 3%;
+    font-size: x-large;
+    
+}

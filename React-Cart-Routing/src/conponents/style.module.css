@@ -1,0 +1,7 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    border: solid;
+    height: 40px;
+}
